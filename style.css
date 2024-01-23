@@ -1,0 +1,48 @@
+/* Colores:
+● #212529;
+● #707070;
+● #F8F9FA o var(--light);
+● #fff o var(--white);
+● #28a745 o var(--success); */
+
+nav {
+    background-color: #28A745;
+   
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .nav-link{
+    font-family: 'Roboto';
+    font-weight: 300, bold;
+    color: #fff;
+}
+
+.row  {
+    row-gap: 15px;
+    padding: 30px 21px 30px 21px;
+}
+
+.navbar-toggler-icon {
+    width: 3.688rem !important;
+    height: 2.625rem !important;
+}
+
+
+.card-body  {
+    padding: 15px
+    
+   
+}
+
+
+.container div form {
+    background-color: #28a745;
+    
+}
+
+.form-group{
+    padding: 10px 25px 20px 25px;
+}
+
+body > div > div.container > form > button{
+    position: fixed;
+}
