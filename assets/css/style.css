@@ -6,8 +6,7 @@
 ● #28a745 o var(--success); */
 
 nav {
-    background-color: #28A745;
-   
+    background-color: #28A745;   
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .nav-link{
@@ -26,13 +25,9 @@ nav {
     height: 2.625rem !important;
 }
 
-
 .card-body  {
-    padding: 15px
-    
-   
+    padding: 15px   
 }
-
 
 .container div form {
     background-color: #28a745;
@@ -45,4 +40,10 @@ nav {
 
 body > div > div.container > form > button{
     position: fixed;
+}
+
+.form_txt {
+    font-family: 'Roboto';
+    font-weight: 100, bold;
+    font-size: 21px;
 }
